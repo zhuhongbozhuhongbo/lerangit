@@ -14,9 +14,13 @@ kcreate a new branch 'feature1'  is quick and simple
 eature1
 jj
 eature1
+EAD
 ooooo
 jjjj
 oooooalllojfjfjf
 jfkasdsjfl
 jfsadklfdsjl
 22:06
+ogagaga
+aiyayay
+eature1
