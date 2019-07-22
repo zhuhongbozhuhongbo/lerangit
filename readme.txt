@@ -5,5 +5,10 @@ Git is free software.
 Git tracks changes of files.
 My stupid boss still prefers SVN.
 aaa
+<<<<<<< HEAD
 o
 ggaag
+=======
+kcreate a new branch 'feature1'  is quick and simple
+
+>>>>>>> feature1
